@@ -1,4 +1,7 @@
-"""
+The application is on the file data_management, please read it
+
+
+
 QUESTIONS:
 
 Q: Using typical sales data as an example, how would you ensure that a data pipeline is kept
@@ -19,4 +22,3 @@ pipeline that is able to add new data while also changing or updating existing d
 changed at the source system?
 A: For the new data, the way I did it is ok, is going to add that new attributes without problem. For modifying the
 old data, you have to do even a SQL query update or a job that update them all at once
-"""
